@@ -11,9 +11,9 @@ Contato:
 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-se à vontade para entrar em contato comigo através do meu Linkedin  https://www.linkedin.com/in/raul-melo-83944325b/.
 
 ----------------------------------------------------------------------------------
-## About me
+## Habilidades:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
 
 
 
