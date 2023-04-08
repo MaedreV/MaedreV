@@ -22,7 +22,7 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-s
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaedreV)](https://github.com/MaedreV/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaedreV&layout=compact)](https://github.com/Maedrev/github-readme-stats)
+
 
 
 Obrigado pela visita!
