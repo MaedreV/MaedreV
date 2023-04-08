@@ -18,10 +18,9 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-s
 
 ----------------------------------------------------------------------------------
 ## Estou aprendendo:
-https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
-https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-
+https://camo.githubusercontent.com/d7cd46284b0b7a88f6f13be51fd99fdd1823e67ed35639d5750dc4cfc40e49bc/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d6d6f6c7461636b
 
 
 
