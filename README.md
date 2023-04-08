@@ -18,7 +18,8 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-s
 
 ----------------------------------------------------------------------------------
 ## Estou aprendendo:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot
 
 
 
