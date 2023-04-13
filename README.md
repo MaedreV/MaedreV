@@ -20,6 +20,9 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-s
 ## Estou aprendendo:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaedreV)](https://github.com/MaedreV/github-readme-stats)
 
