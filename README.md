@@ -25,6 +25,7 @@ Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo, sinta-s
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaedreV)](https://github.com/MaedreV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaedreV&exclude_repo=BestGames)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
