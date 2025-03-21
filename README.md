@@ -1,10 +1,10 @@
-# Olá, eu sou Raul!
-## Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE).
+### Olá, eu sou Raul!
+### Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco (IFPE).
 
 ### No meu perfil do GitHub você poderá encontrar alguns dos projetos que desenvolvi durante meus estudos. 
 
 ----------------------------------------------------------------------------------
-## Habilidades:
+### Habilidades:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -13,13 +13,13 @@
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 
 ----------------------------------------------------------------------------------
-## Estou aprendendo:
+### Estou aprendendo:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 
 
-## Contato:
+### Contato:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raul-melo-83944325b/)
 
@@ -29,7 +29,6 @@
 
 
 
-Obrigado pela visita!
 
 
 
